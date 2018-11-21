@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\DateDeNaissance_Exo_5_majorité\bin\Debug\DateDeNaissance_Exo_5_majorité.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\DateDeNaissance_Exo_5_majorité\bin\Debug\DateDeNaissance_Exo_5_majorité.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\DateDeNaissance_Exo_5_majorité\bin\Debug\DateDeNaissance_Exo_5_majorité.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\DateDeNaissance_Exo_5_majorité\obj\Debug\DateDeNaissance_Exo_5_majorité.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\DateDeNaissance_Exo_5_majorité\obj\Debug\DateDeNaissance_Exo_5_majorité.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\DateDeNaissance_Exo_5_majorité\obj\Debug\DateDeNaissance_Exo_5_majorité.csproj.CoreCompileInputs.cache

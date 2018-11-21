@@ -1,0 +1,5 @@
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce03\bin\Debug\Enonce03.exe.config
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce03\bin\Debug\Enonce03.exe
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce03\bin\Debug\Enonce03.pdb
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce03\obj\Debug\Enonce03.exe
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce03\obj\Debug\Enonce03.pdb

@@ -1,0 +1,13 @@
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_3b_algo11\bin\Debug\Exo_3b_algo11.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_3b_algo11\bin\Debug\Exo_3b_algo11.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_3b_algo11\bin\Debug\Exo_3b_algo11.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_3b_algo11\obj\Debug\Exo_3b_algo11.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_3b_algo11\obj\Debug\Exo_3b_algo11.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_3b_algo11\obj\Debug\Exo_3b_algo11.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_3b_algo11\bin\Debug\Exo_3b_algo11.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_3b_algo11\bin\Debug\Exo_3b_algo11.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_3b_algo11\bin\Debug\Exo_3b_algo11.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_3b_algo11\obj\Debug\Exo_3b_algo11.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_3b_algo11\obj\Debug\Exo_3b_algo11.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_3b_algo11\obj\Debug\Exo_3b_algo11.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_3b_algo11\obj\Debug\Exo_3b_algo11.pdb

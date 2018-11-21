@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_progra_procedurale_Q1\bin\Debug\Exo_progra_procedurale_Q1.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_progra_procedurale_Q1\bin\Debug\Exo_progra_procedurale_Q1.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_progra_procedurale_Q1\bin\Debug\Exo_progra_procedurale_Q1.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_progra_procedurale_Q1\obj\Debug\Exo_progra_procedurale_Q1.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_progra_procedurale_Q1\obj\Debug\Exo_progra_procedurale_Q1.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_progra_procedurale_Q1\obj\Debug\Exo_progra_procedurale_Q1.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_progra_procedurale_Q1\obj\Debug\Exo_progra_procedurale_Q1.pdb

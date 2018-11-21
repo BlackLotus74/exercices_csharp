@@ -1,0 +1,16 @@
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_6_AlgoExercice\bin\Debug\Exo_6_AlgoExercice.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_6_AlgoExercice\bin\Debug\Exo_6_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_6_AlgoExercice\bin\Debug\Exo_6_AlgoExercice.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Exo01\Exo_6_AlgoExercice\bin\Debug\Exo_6_AlgoExercice.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_6_AlgoExercice\bin\Debug\Exo_6_AlgoExercice.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_6_AlgoExercice\bin\Debug\Exo_6_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_6_AlgoExercice\bin\Debug\Exo_6_AlgoExercice.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_6_AlgoExercice\obj\Debug\Exo_6_AlgoExercice.pdb

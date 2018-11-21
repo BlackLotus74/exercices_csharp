@@ -1,0 +1,10 @@
+C:\exo_ABCDEV\enonce1\exo_enonce2\bin\Debug\exo_enonce2.exe.config
+C:\exo_ABCDEV\enonce1\exo_enonce2\bin\Debug\exo_enonce2.exe
+C:\exo_ABCDEV\enonce1\exo_enonce2\bin\Debug\exo_enonce2.pdb
+C:\exo_ABCDEV\enonce1\exo_enonce2\obj\Debug\exo_enonce2.exe
+C:\exo_ABCDEV\enonce1\exo_enonce2\obj\Debug\exo_enonce2.pdb
+C:\exo_ABCDEV\exo_algoV1\exo_enonce2\bin\Debug\exo_enonce2.exe.config
+C:\exo_ABCDEV\exo_algoV1\exo_enonce2\obj\Debug\exo_enonce2.exe
+C:\exo_ABCDEV\exo_algoV1\exo_enonce2\obj\Debug\exo_enonce2.pdb
+C:\exo_ABCDEV\exo_algoV1\exo_enonce2\bin\Debug\exo_enonce2.exe
+C:\exo_ABCDEV\exo_algoV1\exo_enonce2\bin\Debug\exo_enonce2.pdb

@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Tableau2Dimensions_Exo_tableaux_statiques\bin\Debug\Tableau2Dimensions_Exo_tableaux_statiques.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Tableau2Dimensions_Exo_tableaux_statiques\bin\Debug\Tableau2Dimensions_Exo_tableaux_statiques.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Tableau2Dimensions_Exo_tableaux_statiques\bin\Debug\Tableau2Dimensions_Exo_tableaux_statiques.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Tableau2Dimensions_Exo_tableaux_statiques\obj\Debug\Tableau2Dimensions_Exo_tableaux_statiques.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Tableau2Dimensions_Exo_tableaux_statiques\obj\Debug\Tableau2Dimensions_Exo_tableaux_statiques.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Tableau2Dimensions_Exo_tableaux_statiques\obj\Debug\Tableau2Dimensions_Exo_tableaux_statiques.csproj.CoreCompileInputs.cache

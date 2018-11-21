@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_kiloutou\bin\Debug\Exo_kiloutou.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_kiloutou\bin\Debug\Exo_kiloutou.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_kiloutou\bin\Debug\Exo_kiloutou.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_kiloutou\obj\Debug\Exo_kiloutou.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_kiloutou\obj\Debug\Exo_kiloutou.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_kiloutou\obj\Debug\Exo_kiloutou.pdb

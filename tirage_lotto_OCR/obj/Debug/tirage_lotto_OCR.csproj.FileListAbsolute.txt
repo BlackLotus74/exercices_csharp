@@ -1,0 +1,10 @@
+C:\Users\CRM\Desktop\Projet\Exo01\tirage_lotto_OCR\bin\Debug\tirage_lotto_OCR.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\tirage_lotto_OCR\bin\Debug\tirage_lotto_OCR.exe
+C:\Users\CRM\Desktop\Projet\Exo01\tirage_lotto_OCR\bin\Debug\tirage_lotto_OCR.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\tirage_lotto_OCR\obj\Debug\tirage_lotto_OCR.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet\Exo01\tirage_lotto_OCR\obj\Debug\tirage_lotto_OCR.exe
+C:\Users\CRM\Desktop\Projet\Exo01\tirage_lotto_OCR\obj\Debug\tirage_lotto_OCR.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\tirage_lotto_OCR\obj\Debug\tirage_lotto_OCR.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\tirage_lotto_OCR\obj\Debug\tirage_lotto_OCR.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\tirage_lotto_OCR\obj\Debug\tirage_lotto_OCR.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\tirage_lotto_OCR\obj\Debug\tirage_lotto_OCR.pdb

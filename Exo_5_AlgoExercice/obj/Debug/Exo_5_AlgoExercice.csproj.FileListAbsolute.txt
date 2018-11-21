@@ -1,0 +1,13 @@
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_5_AlgoExercice\bin\Debug\Exo_5_AlgoExercice.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_5_AlgoExercice\bin\Debug\Exo_5_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_5_AlgoExercice\bin\Debug\Exo_5_AlgoExercice.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_5_AlgoExercice\obj\Debug\Exo_5_AlgoExercice.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_5_AlgoExercice\obj\Debug\Exo_5_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_5_AlgoExercice\obj\Debug\Exo_5_AlgoExercice.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_5_AlgoExercice\bin\Debug\Exo_5_AlgoExercice.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_5_AlgoExercice\bin\Debug\Exo_5_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_5_AlgoExercice\bin\Debug\Exo_5_AlgoExercice.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_5_AlgoExercice\obj\Debug\Exo_5_AlgoExercice.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_5_AlgoExercice\obj\Debug\Exo_5_AlgoExercice.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_5_AlgoExercice\obj\Debug\Exo_5_AlgoExercice.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_5_AlgoExercice\obj\Debug\Exo_5_AlgoExercice.pdb

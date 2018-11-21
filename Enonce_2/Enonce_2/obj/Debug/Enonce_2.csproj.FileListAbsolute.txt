@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce_2\bin\Debug\Enonce_2.exe.config
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce_2\obj\Debug\Enonce_2.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce_2\bin\Debug\Enonce_2.exe
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce_2\bin\Debug\Enonce_2.pdb
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce_2\obj\Debug\Enonce_2.exe
+C:\Users\CRM\Desktop\Projet\Enonce_2\Enonce_2\obj\Debug\Enonce_2.pdb

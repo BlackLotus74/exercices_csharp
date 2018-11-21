@@ -1,0 +1,133 @@
+<html><MEMOWEB BASEURL="http://grand.patrice.free.fr/net/courscharp/exercices/classecompte/index.htm">
+
+<head>
+<title>TP Comptes bancaires</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#33FFFF">
+<p align="center"><b><font size="4">TP Comptes bancaires.</font></b></p>
+<p><b>1&deg;) Contexte</b></p>
+<p>Un compte bancaire (simplifi&eacute;) est caract&eacute;ris&eacute; par :</p>
+<p>- un num&eacute;ro unique</p>
+<p>- le nom de son propri&eacute;taire</p>
+<p>- son solde (montant restant sur le compte): il peut &ecirc;tre n&eacute;gatif</p>
+<p>- le montant du d&eacute;couvert autoris&eacute; (chiffre n&eacute;gatif) : 
+  le solde ne peut descendre en dessous.</p>
+<p><b>Travail &agrave; faire</b></p>
+<p>Dessiner le diagramme partiel de la classe Compte en respectant les r&egrave;gles 
+  de nommage du langage C# et en faisant figurer les niveaux de visibilit&eacute;.</p>
+<p><a href="images/diagclasse1.gif" OLDREF="http://grand.patrice.free.fr/net/courscharp/exercices/classecompte/images/diagclasse1.gif">Solution</a></p>
+<p><b>2&deg;) Responsabilit&eacute;s</b></p>
+<p>Nous attribuons &agrave; cette classe un certain nombre de responsabilit&eacute;s, 
+  ceci permettra de d&eacute;terminer son comportement.</p>
+<p>Responsabilit&eacute;s :</p>
+<p>- afficher toutes ses informations</p>
+<p>- cr&eacute;diter d'un montant fourni </p>
+<p>- d&eacute;biter le solde d'un montant fourni, mais attention un &quot;drapeau&quot; 
+  (booleen) indiquera si l'op&eacute;ration a pu se r&eacute;aliser</p>
+<p>- transf&eacute;rer un montant, du compte courant vers un autre compte; m&ecirc;me 
+  remarque que pour le paragraphe pr&eacute;c&eacute;dent.</p>
+<p>- comparer le solde de l'objet courant avec le solde d'un autre compte fourni, 
+  le r&eacute;sultat sera un bool&eacute;en</p>
+<p><b>Travail &agrave; faire</b></p>
+<p>Enrichir le diagramme de la classe <i>Compte</i> en ajoutant les m&eacute;thodes 
+  n&eacute;cessaires avec leurs signatures pr&eacute;cises et les niveaux de visibilit&eacute;.</p>
+<p><a href="images/diagclasse2.gif" OLDREF="http://grand.patrice.free.fr/net/courscharp/exercices/classecompte/images/diagclasse2.gif">Solution</a></p>
+<p><b>3&deg;) Ecriture de la classe</b></p>
+<p>Vous aller utiliser <b>SharpDevelop</b> pour d&eacute;clarer votre classe.</p>
+<p>Cr&eacute;er un r&eacute;pertoire <i>Compte</i>. Ouvrez <i>SharpDevelop</i>. 
+  Enregistrez le texte vide dans un fichier <i>exocompte.cs</i></p>
+<p>L'organisation de votre code sera :</p>
+<p><i>using System;</i></p>
+<p><i>class AppCompte{</i></p>
+<p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;static 
+  void Main(){}<br>
+  }</i></p>
+<p>//----------------------------------------------------------------------------------------------------------</p>
+<p><i>class Compte{</i></p>
+<p></p>
+<p></p>
+<p></p>
+<p><i>}</i></p>
+<p>La classe <i>AppCompte</i> servira &agrave; tester votre classe <i>Compte</i> 
+  par l'interm&eacute;diaire de la m&eacute;thode <i>Main</i>.</p>
+<p>Remarque : si votre fichier contient plusieurs classes il est pr&eacute;f&eacute;rable 
+  de les s&eacute;parer nettement par une ligne en commentaire</p>
+<p><b>Travail &agrave; faire.</b></p>
+<p>Copier le squelette dans <i>SharpDevelop </i>et &eacute;crire la d&eacute;claration 
+  de votre classe <i>Compte</i>. Pour cela vous utiliserez le diagramme de classe 
+  qui indique les attributs et m&eacute;thodes. Chaque proc&eacute;dure ne contiendra 
+  qu'un corps vide {}. Afin de ne pas avoir d'erreur de compilation sur les fonctions, 
+  vous pr&eacute;ciserez une valeur de retour dans le corps de la m&eacute;thode, 
+  exemple :</p>
+<p><i>public bool Debiter(float montant){return true;}</i></p>
+<p>Compiler.</p>
+<p><b>4&deg;) Ecriture du corps des m&eacute;thodes.</b></p>
+<p><b>Travail &agrave; faire</b></p>
+<p>Ecrire deux constructeurs :</p>
+<p>- l'un sans param&egrave;tre qui ne fera que mettre &agrave; blanc ou &agrave; 
+  0 les champs</p>
+<p>- l'autre avec 4 param&egrave;tres, un pour chaque attribut</p>
+<p>Compiler</p>
+<p>Ecrire la m&eacute;thode <i>Afficher</i>, la tester ainsi :</p>
+<p><i>using System;</i></p>
+<p><i>class AppCompte{<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;static 
+  void Main(){<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compte 
+  c = new Compte();<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compte 
+  c1 = new Compte(12345,&quot;toto&quot;,1000,-500);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c.Afficher();<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c1.Afficher();<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}<br>
+  &nbsp;}</i></p>
+<p><b>5&deg;) Ecriture des m&eacute;thodes restantes</b></p>
+<p><b>Travail &agrave; faire</b></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a) 
+  M&eacute;thodes<i> Crediter(), Debiter()</i>: tester avec</p>
+<p><i>static void Main(){<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Compte c1 = new Compte(12345,&quot;toto&quot;,1000,-500);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c1.Crediter(2000);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c1.Debiter(5300);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c1.Afficher();<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;int n =Console.Read();<br>
+  }</i></p>
+<p>qui devra produire :</p>
+<p><img src="images/sortiedos1.gif" width="494" height="40" OLDREF="http://grand.patrice.free.fr/net/courscharp/exercices/classecompte/images/sortiedos1.gif"></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b) 
+  M&eacute;thode Transferer() : Tester avec </p>
+<p>premier test :</p>
+<p><i>Compte c1 = new Compte(12345,&quot;toto&quot;,1000,-500);<br>
+  Compte c2 = new Compte(45657, &quot;titi&quot;,2000,-1000);<br>
+  c1.Transferer(1300,c2);<br>
+  c1.Afficher();<br>
+  c2.Afficher();</i></p>
+<p>qui devra produire :</p>
+<p><img src="images/sortie2.gif" width="504" height="36" OLDREF="http://grand.patrice.free.fr/net/courscharp/exercices/classecompte/images/sortie2.gif"> </p>
+<p>deuxi&egrave;me test :</p>
+<p><i>Compte c1 = new Compte(12345,&quot;toto&quot;,1000,-500);<br>
+  Compte c2 = new Compte(45657, &quot;titi&quot;,2000,-1000);<br>
+  c1.Transferer(<b>3300</b>,c2);<br>
+  c1.Afficher();<br>
+  c2.Afficher();</i></p>
+<p>qui devra produire :</p>
+<p><img src="images/sortie3.gif" width="508" height="29" OLDREF="http://grand.patrice.free.fr/net/courscharp/exercices/classecompte/images/sortie3.gif"></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;c) 
+  M&eacute;thode Superieur()</p>
+<p>Tester avec :</p>
+<p><i>Compte c1 = new Compte(12345,&quot;toto&quot;,1000,-500);<br>
+  Compte c2 = new Compte(45657, &quot;titi&quot;,2000,-1000);<br>
+  if(c1.Superieur(c2))<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Console.WriteLine(&quot;superieur&quot;);<br>
+  else<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Console.WriteLine(&quot;inf&eacute;rieur&quot;);</i></p>
+<p>qui devra afficher <b>inf&eacute;rieur</b>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<!--MEMOWEB=ON-->  
+<script Language="JavaScript" src="../../../../../index/_MWHook.js" mwhook></script>
+<!--MEMOWEB=OFF-->  
+</body>
+</html>

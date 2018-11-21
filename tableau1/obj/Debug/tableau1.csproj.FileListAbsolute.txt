@@ -1,0 +1,9 @@
+C:\exo_ABCDEV\exo_algoV1\tableau1\bin\Debug\tableau1.exe.config
+C:\exo_ABCDEV\exo_algoV1\tableau1\bin\Debug\tableau1.exe
+C:\exo_ABCDEV\exo_algoV1\tableau1\bin\Debug\tableau1.pdb
+C:\exo_ABCDEV\exo_algoV1\tableau1\obj\Debug\tableau1.csprojResolveAssemblyReference.cache
+C:\exo_ABCDEV\exo_algoV1\tableau1\obj\Debug\tableau1.exe
+C:\exo_ABCDEV\exo_algoV1\tableau1\obj\Debug\tableau1.pdb
+C:\Users\CRM\Desktop\tableau1\bin\Debug\tableau1.exe.config
+C:\Users\CRM\Desktop\tableau1\obj\Debug\tableau1.exe
+C:\Users\CRM\Desktop\tableau1\obj\Debug\tableau1.pdb

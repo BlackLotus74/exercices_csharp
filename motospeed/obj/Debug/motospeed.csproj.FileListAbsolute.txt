@@ -1,0 +1,2 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\motospeed\obj\Debug\motospeed.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\motospeed\obj\Debug\motospeed.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\Projet\Exo01\Exo-StructureAlternative01\bin\Debug\Exo-StructureAlternative01.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\Exo-StructureAlternative01\obj\Debug\Exo-StructureAlternative01.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet\Exo01\Exo-StructureAlternative01\bin\Debug\Exo-StructureAlternative01.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo-StructureAlternative01\bin\Debug\Exo-StructureAlternative01.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo-StructureAlternative01\obj\Debug\Exo-StructureAlternative01.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo-StructureAlternative01\obj\Debug\Exo-StructureAlternative01.pdb

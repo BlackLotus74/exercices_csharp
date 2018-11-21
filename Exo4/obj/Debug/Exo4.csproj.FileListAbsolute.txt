@@ -1,0 +1,13 @@
+C:\Users\CRM\Desktop\Projet\Exo01\Exo4\bin\Debug\Exo4.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\Exo4\bin\Debug\Exo4.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo4\bin\Debug\Exo4.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo4\obj\Debug\Exo4.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo4\obj\Debug\Exo4.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo4\obj\Debug\Exo4.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo4\bin\Debug\Exo4.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo4\bin\Debug\Exo4.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo4\bin\Debug\Exo4.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo4\obj\Debug\Exo4.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo4\obj\Debug\Exo4.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo4\obj\Debug\Exo4.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo4\obj\Debug\Exo4.pdb

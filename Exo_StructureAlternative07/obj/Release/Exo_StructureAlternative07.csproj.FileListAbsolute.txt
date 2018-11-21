@@ -1,0 +1,2 @@
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative07\bin\Release\Exo_StructureAlternative07.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative07\obj\Release\Exo_StructureAlternative07.csprojResolveAssemblyReference.cache

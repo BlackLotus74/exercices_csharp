@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_Emprunt\bin\Debug\Exo_Emprunt.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_Emprunt\bin\Debug\Exo_Emprunt.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_Emprunt\bin\Debug\Exo_Emprunt.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_Emprunt\obj\Debug\Exo_Emprunt.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_Emprunt\obj\Debug\Exo_Emprunt.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_Emprunt\obj\Debug\Exo_Emprunt.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_Emprunt\obj\Debug\Exo_Emprunt.pdb

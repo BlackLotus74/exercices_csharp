@@ -1,0 +1,5 @@
+C:\exo_ABCDEV\exo_algoV1\JEU_DE_L_EMPRUNT\bin\Debug\JEU_DE_L_EMPRUNT.exe.config
+C:\exo_ABCDEV\exo_algoV1\JEU_DE_L_EMPRUNT\bin\Debug\JEU_DE_L_EMPRUNT.exe
+C:\exo_ABCDEV\exo_algoV1\JEU_DE_L_EMPRUNT\bin\Debug\JEU_DE_L_EMPRUNT.pdb
+C:\exo_ABCDEV\exo_algoV1\JEU_DE_L_EMPRUNT\obj\Debug\JEU_DE_L_EMPRUNT.exe
+C:\exo_ABCDEV\exo_algoV1\JEU_DE_L_EMPRUNT\obj\Debug\JEU_DE_L_EMPRUNT.pdb

@@ -1,0 +1,13 @@
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative03\bin\Debug\Exo_StructureAlternative03.exe.config
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative03\bin\Debug\Exo_StructureAlternative03.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative03\bin\Debug\Exo_StructureAlternative03.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative03\obj\Debug\Exo_StructureAlternative03.exe
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative03\obj\Debug\Exo_StructureAlternative03.pdb
+C:\Users\CRM\Desktop\Projet\Exo01\Exo_StructureAlternative03\obj\Debug\Exo_StructureAlternative03.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_StructureAlternative03\bin\Debug\Exo_StructureAlternative03.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_StructureAlternative03\bin\Debug\Exo_StructureAlternative03.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_StructureAlternative03\bin\Debug\Exo_StructureAlternative03.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_StructureAlternative03\obj\Debug\Exo_StructureAlternative03.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_StructureAlternative03\obj\Debug\Exo_StructureAlternative03.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_StructureAlternative03\obj\Debug\Exo_StructureAlternative03.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_StructureAlternative03\obj\Debug\Exo_StructureAlternative03.pdb

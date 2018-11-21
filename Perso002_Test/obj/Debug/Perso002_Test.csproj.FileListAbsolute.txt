@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Perso002_Test\bin\Debug\Perso002_Test.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Perso002_Test\bin\Debug\Perso002_Test.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Perso002_Test\bin\Debug\Perso002_Test.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Perso002_Test\obj\Debug\Perso002_Test.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Perso002_Test\obj\Debug\Perso002_Test.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Perso002_Test\obj\Debug\Perso002_Test.csproj.CoreCompileInputs.cache

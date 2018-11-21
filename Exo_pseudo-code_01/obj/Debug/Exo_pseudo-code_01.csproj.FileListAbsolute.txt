@@ -1,0 +1,7 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_pseudo-code_01\bin\Debug\Exo_pseudo-code_01.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_pseudo-code_01\bin\Debug\Exo_pseudo-code_01.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_pseudo-code_01\bin\Debug\Exo_pseudo-code_01.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_pseudo-code_01\obj\Debug\Exo_pseudo-code_01.csprojResolveAssemblyReference.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_pseudo-code_01\obj\Debug\Exo_pseudo-code_01.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_pseudo-code_01\obj\Debug\Exo_pseudo-code_01.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_pseudo-code_01\obj\Debug\Exo_pseudo-code_01.pdb

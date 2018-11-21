@@ -1,0 +1,6 @@
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_1_Tableaux\bin\Debug\Exo_1_Tableaux.exe.config
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_1_Tableaux\bin\Debug\Exo_1_Tableaux.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_1_Tableaux\bin\Debug\Exo_1_Tableaux.pdb
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_1_Tableaux\obj\Debug\Tableaux_Exo_01.csproj.CoreCompileInputs.cache
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_1_Tableaux\obj\Debug\Exo_1_Tableaux.exe
+C:\Users\CRM\Desktop\Projet Cour - CRP\Cour__Exo01\Exo_1_Tableaux\obj\Debug\Exo_1_Tableaux.pdb
