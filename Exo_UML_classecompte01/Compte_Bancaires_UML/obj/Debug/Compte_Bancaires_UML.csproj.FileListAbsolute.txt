@@ -1,0 +1,6 @@
+C:\Users\CRM\source\repos\Exo_UML_classecompte01\Compte_Bancaires_UML\obj\Debug\Compte_Bancaires_UML.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\Exo_UML_classecompte01\Compte_Bancaires_UML\bin\Debug\Compte_Bancaires_UML.exe.config
+C:\Users\CRM\source\repos\Exo_UML_classecompte01\Compte_Bancaires_UML\bin\Debug\Compte_Bancaires_UML.exe
+C:\Users\CRM\source\repos\Exo_UML_classecompte01\Compte_Bancaires_UML\bin\Debug\Compte_Bancaires_UML.pdb
+C:\Users\CRM\source\repos\Exo_UML_classecompte01\Compte_Bancaires_UML\obj\Debug\Compte_Bancaires_UML.exe
+C:\Users\CRM\source\repos\Exo_UML_classecompte01\Compte_Bancaires_UML\obj\Debug\Compte_Bancaires_UML.pdb
