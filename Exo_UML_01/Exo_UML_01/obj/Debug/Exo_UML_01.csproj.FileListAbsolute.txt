@@ -1,0 +1,6 @@
+C:\Users\CRM\source\repos\Exo_UML_01\Exo_UML_01\bin\Debug\Exo_UML_01.exe.config
+C:\Users\CRM\source\repos\Exo_UML_01\Exo_UML_01\bin\Debug\Exo_UML_01.exe
+C:\Users\CRM\source\repos\Exo_UML_01\Exo_UML_01\bin\Debug\Exo_UML_01.pdb
+C:\Users\CRM\source\repos\Exo_UML_01\Exo_UML_01\obj\Debug\Exo_UML_01.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\Exo_UML_01\Exo_UML_01\obj\Debug\Exo_UML_01.exe
+C:\Users\CRM\source\repos\Exo_UML_01\Exo_UML_01\obj\Debug\Exo_UML_01.pdb
