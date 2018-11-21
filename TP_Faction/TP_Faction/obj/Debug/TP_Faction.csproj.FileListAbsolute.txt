@@ -1,0 +1,7 @@
+C:\Users\CRM\source\repos\TP_Faction\TP_Faction\obj\Debug\TP_Faction.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\TP_Faction\TP_Faction\bin\Debug\TP_Faction.exe.config
+C:\Users\CRM\source\repos\TP_Faction\TP_Faction\bin\Debug\TP_Faction.exe
+C:\Users\CRM\source\repos\TP_Faction\TP_Faction\bin\Debug\TP_Faction.pdb
+C:\Users\CRM\source\repos\TP_Faction\TP_Faction\obj\Debug\TP_Faction.exe
+C:\Users\CRM\source\repos\TP_Faction\TP_Faction\obj\Debug\TP_Faction.pdb
+C:\Users\CRM\source\repos\TP_Faction\TP_Faction\obj\Debug\TP_Faction.csprojResolveAssemblyReference.cache
