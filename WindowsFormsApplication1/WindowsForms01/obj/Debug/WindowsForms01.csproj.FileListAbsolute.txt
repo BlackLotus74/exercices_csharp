@@ -1,0 +1,10 @@
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\bin\Debug\WindowsForms01.exe.config
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\bin\Debug\WindowsForms01.exe
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\bin\Debug\WindowsForms01.pdb
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\obj\Debug\WindowsForms01.csprojResolveAssemblyReference.cache
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\obj\Debug\WindowsForms01.m_test.resources
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\obj\Debug\WindowsForms01.Properties.Resources.resources
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\obj\Debug\WindowsForms01.csproj.GenerateResource.Cache
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\obj\Debug\WindowsForms01.csproj.CoreCompileInputs.cache
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\obj\Debug\WindowsForms01.exe
+C:\Users\CRM\source\repos\WindowsFormsApplication1\WindowsForms01\obj\Debug\WindowsForms01.pdb
